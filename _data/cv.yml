@@ -2,36 +2,30 @@
   type: map
   contents:
     - name: Full Name
-      value: Stephen Taylor
+      value: Stephen Taylor 
     - name: Date of Birth
       value: 23rd May 2000
-    
 
 - title: Education
   type: time_table
   contents:
     - title: Robotics Engineering, B.S.
       institution: The University of California, Santa Cruz
-      year: Sep. 2018 - Dec. 2022
-      
+      year: 2022
 
 - title: Experience
   type: time_table
   contents:
     - title: Junior Specialist
-      institution: jLab at Jack Baskin Engineering
+      institution: <a href="https://sensors.soe.ucsc.edu/">jLab</a> at Jack Baskin Engineering
       year: Feb. 2023 - Present
       description:
-        - Full-time research in effectively harvesting renewable energy from non-traditional sources (e.g. microbes)
-        - Mentor younger lab associates, and assist with overall operation of the lab
-    - title: Student Researcher
-      institution: jLab at Jack Baskin Engineering
+        - Designed novel research experiments on microbial fuel cells
+        - Mentor younger students, and assist with overall operation of the lab
+    - title: Undergraduate Researcher
+      institution: <a href="https://sensors.soe.ucsc.edu/">jLab</a> at Jack Baskin Engineering
       year: May 2022 - Jan. 2023
       description:
-        - Deployed a remote power measurement system using a BeagleBone-based architecture. 
+        - Deployed a remote power measurement system using a BeagleBone-based architecture
         - Wrote several papers and grant applications
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Surfing, swimming, hiking, climbing and backpacking

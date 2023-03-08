@@ -1,8 +1,9 @@
 github_users:
-  - stevegtaylor
+  - torvalds
+  - alshedivat
 
 github_repos:
-  - stevegtaylor/
+  - alshedivat/al-folio
   - twbs/bootstrap
   - jekyll/jekyll
   - jquery/jquery
