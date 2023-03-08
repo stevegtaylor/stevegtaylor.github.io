@@ -2,7 +2,7 @@
 layout: page
 title: <b>B</b>ike <b>R</b>ecovery <b>A</b>nd <b>S</b>ecurity <b>S</b>ystem
 description: A novel bicycle security approach using an alarmed U-lock integrated via Bluetooth to a GPS tracker. 
-img: assets/img/12.jpgs
+img: assets/img/BRASS Bike and lock.jpg
 importance: 1
 category: work
 ---
