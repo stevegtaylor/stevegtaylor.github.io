@@ -19,6 +19,6 @@ the literature. We present nine months of deployment data gathered from four SMF
 resulting in an improved SMFC that generates power across a wider soil moisture range. From these experiments, we extracted
 key lessons and a testing framework, assessed SMFC’s field performance, contextualized improvements with emerging and
 existing computing systems, and demonstrated the improved SMFC powering a wireless sensor for soil moisture and touch
-sensing. We contribute our data, methodology, and designs to establish the foundation for a sustainable, soil-powered future
+sensing. We contribute our data, methodology, and designs to establish the foundation for a sustainable, soil-powered future.
 
 *Bill Yen, Laura Jaliff, Louis Gutierrez, Philothei Sahinidis, Sadie Bernstein, John Madden, **Stephen Taylor**, Colleen Josephson, Pat Pannuto, Weitao Shuai, George Wells, Nivedita Arora, Josiah Hester*
