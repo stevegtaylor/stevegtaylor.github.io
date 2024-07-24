@@ -16,7 +16,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: http://stevegtaylor.github.io/files/Stephen-Taylor-CV-Website.pdf
     
   # - title: "Guide"
   #   url: /markdown/
