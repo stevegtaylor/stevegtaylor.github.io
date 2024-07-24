@@ -4,10 +4,21 @@ collection: publications
 permalink: /publication/2024-soil-powered-computing
 excerpt: "I'm very proud of the traction our work on soil microbial fuel cell design has gotten. Accepted in [ACM IMWUT](https://dl.acm.org/journal/imwut)."
 date: 2024-01-12
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+venue: 'Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies'
+paperurl: 'http://stevegtaylor.github.io/files/soil-powered-computing.pdf'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Human-caused climate degradation and the explosion of electronic waste have pushed the computing community to explore
+fundamental alternatives to the current battery-powered, over-provisioned ubiquitous computing devices that need constant
+replacement and recharging. Soil Microbial Fuel Cells (SMFCs) offer promise as a renewable energy source that is biocompatible
+and viable in difficult environments where traditional batteries and solar panels fall short. However, SMFC development is
+in its infancy, and challenges like robustness to environmental factors and low power output stymie efforts to implement
+real-world applications in terrestrial environments. This work details a 2-year iterative process that uncovers barriers to
+practical SMFC design for powering electronics, which we address through a mechanistic understanding of SMFC theory from
+the literature. We present nine months of deployment data gathered from four SMFC experiments exploring cell geometries,
+resulting in an improved SMFC that generates power across a wider soil moisture range. From these experiments, we extracted
+key lessons and a testing framework, assessed SMFC’s field performance, contextualized improvements with emerging and
+existing computing systems, and demonstrated the improved SMFC powering a wireless sensor for soil moisture and touch
+sensing. We contribute our data, methodology, and designs to establish the foundation for a sustainable, soil-powered future
+
+Bill Yen, Laura Jaliff, Louis Gutierrez, Philothei Sahinidis, Sadie Bernstein, John Madden, **Stephen Taylor**, Colleen Josephson, Pat Pannuto, Weitao Shuai, George Wells, Nivedita Arora, Josiah Hester
