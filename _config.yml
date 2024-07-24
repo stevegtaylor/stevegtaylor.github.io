@@ -35,7 +35,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-5403-7226"
   semantic         : # URL
-  pubmed           : ""
+  pubmed           : #
   researchgate     : # URL
 
   # Repositories and software development
