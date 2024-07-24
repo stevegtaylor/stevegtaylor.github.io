@@ -7,13 +7,15 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<iframe src="files/Stephen-Taylor-CV-Website.pdf"></iframe>
+
+
+<!-- {% include base_path %}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science and Engineering, UC San Diego, 2028 (expected)
+* B.S. in Robotics Engineering, UC Santa Cruz, 2022
 
 Work experience
 ======
@@ -45,9 +47,9 @@ Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -61,4 +63,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
