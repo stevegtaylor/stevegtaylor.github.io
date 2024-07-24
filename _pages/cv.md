@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="files/Stephen-Taylor-CV-Website.pdf"></iframe>
+<iframe src="http://stevegtaylor.github.io/files/Stephen-Taylor-CV-Website.pdf"></iframe>
 
 
 <!-- {% include base_path %}
