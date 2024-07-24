@@ -16,7 +16,9 @@ Personal stuff
 In my free time I love to surf, hike, climb and just spend time outside. :) It's my love of the outdoors and the ocean that drives me to try and find enviromentally focused solutions.
 
 ![In the high Sierras](images/img_0775_720.jpg)
+
 *On a long hike in the high Sierras.*
 
 ![My favorite hobby](images/img_5703_720.jpg)
+
 *My favorite hobby.*
