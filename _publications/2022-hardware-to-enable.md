@@ -2,7 +2,7 @@
 title: "Hardware to enable large-scale deployment and observation of soil microbial fuel cells"
 collection: publications
 permalink: /publication/2022-hardware-to-enable
-excerpt: 'Our work on "Hardware to enable large-scale deployment and observation of soil microbial fuel cells" was accapted at [ACM SenSys](https://sensys.acm.org/2022/).'
+excerpt: 'Our work on "Hardware to enable large-scale deployment and observation of soil microbial fuel cells" was accepted at [ACM SenSys](https://sensys.acm.org/2022/).'
 date: 2022-11-16
 venue: 'Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems'
 paperurl: 'http://stevegtaylor.github.io/files/hardware-to-enable.pdf'
