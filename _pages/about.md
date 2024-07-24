@@ -11,6 +11,10 @@ Hi, I'm Steve Taylor. I'm a Computer Science & Engineering PhD student at UC San
 
 I did my undergraduate studies in the ECE department at UC Santa Cruz and worked as a staff researcher with [Colleen Josephson](https://people.ucsc.edu/~cojoseph/).
 
+Contact
+======
+stt017 at ucsd dot edu
+
 Personal stuff
 ======
 In my free time I love to surf, hike, climb and just spend time outside. :) It's my love of the outdoors and the ocean that drives me to try and find enviromentally focused solutions.
