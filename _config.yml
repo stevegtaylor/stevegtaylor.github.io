@@ -21,7 +21,7 @@ repository               : "https://github.com/stevegtaylor/stevegtaylor.github.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "img_5609_720.jpg"
   name             : "Stephen Taylor"
   pronouns         : # example: "she/her"  
   bio              : "Hi! I'm a young PhD student studying computer engineering at UC San Diego. My interests lie in using cutting-edge sensing and energy harvesting technologies in the name of sustainability."
