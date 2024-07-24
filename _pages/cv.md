@@ -7,8 +7,8 @@ redirect_from:
   - /resume
 ---
 
-![Cv1](images\Stephen-Taylor-CV-Website-images-0.jpg)
-![VV2](images\Stephen-Taylor-CV-Website-images-1.jpg)
+![Cv1](images/Stephen-Taylor-CV-Website-images-0.jpg)
+![VV2](images/Stephen-Taylor-CV-Website-images-1.jpg)
 
 
 <!-- {% include base_path %}
