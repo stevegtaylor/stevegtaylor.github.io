@@ -7,8 +7,23 @@ redirect_from:
   - /resume
 ---
 
-![Cv1](images/Stephen-Taylor-CV-Website-images-0.jpg)
-![V2](images/Stephen-Taylor-CV-Website-images-1.jpg)
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embed PDF</title>
+    <style>
+        .pdf-viewer {
+            width: 100%; /* Full width */
+            height: 800px; /* Adjust the height as needed */
+            border: none;
+        }
+    </style>
+</head>
+<body>
+    <iframe src="http://stevegtaylor.github.io/files/Stephen-Taylor-CV-Website.pdf" class="pdf-viewer"></iframe>
+</body>
+</html>
 
 
 <!-- {% include base_path %}
