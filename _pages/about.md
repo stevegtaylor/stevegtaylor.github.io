@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi, I'm Steve Taylor. I'm a Computer Science & Engineering PhD student at UC San Diego with [Pat Pannuto](https://cse.ucsd.edu/people/faculty-profiles/pat-pannuto). I'm interested in developing new sensing and energy harvesting technologies in the name of sustainability. Some of my projects include being a lead developer on the open-source project The Open Sensing Platform, an end-to-end environmental sensing and visualization solution for researchers, and using microbes as an avenue for new sensing and energy harvesting technologies.
+
+I did my undergraduate studies in the ECE department at UC Santa Cruz and worked as a staff researcher with [Colleen Josephson](https://people.ucsc.edu/~cojoseph/).
 
 A data-driven personal website
 ======
