@@ -2,7 +2,7 @@
 title: "Soil-Powered Computing: The Engineer's Guide to Practical Soil Microbial Fuel Cell Design"
 collection: publications
 permalink: /publication/2024-soil-powered-computing
-excerpt: 'I'm very proud of the traction our work on soil microbial fuel cell design has gotten. Accepted in [ACM IMWUT](https://dl.acm.org/journal/imwut).'
+excerpt: "I'm very proud of the traction our work on soil microbial fuel cell design has gotten. Accepted in [ACM IMWUT](https://dl.acm.org/journal/imwut)."
 date: 2024-01-12
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
