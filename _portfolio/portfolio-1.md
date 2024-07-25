@@ -1,7 +1,17 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "The Open Sensing Platform"
+excerpt: "The Open Sensing Platform is an open-source, end-to-end environmental measurement and visualization software.<br/><img src='/images/Open-Sensing-Platform.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+When we began implementing research field deployments, we noticed a lack of appropriate field monitoring equipment for researchers. Many research groups were wasting valuable time reinventing the wheel by building their own measurement systems. In response, we began to develop the Open Sensing Platform.
+
+The Open Sensing Platform consists of two parts: the sensor hardware and the data ingestion/visualization software. The sensor hardware provides researchers with a user-friendly, modular device for field and in-lab research. It includes LoRa and WiFi for field and lab deployments, respectively; analog measurement; onboard memory storage; and general-purpose environmental sensing communication. Our data ingestion and visualization platform serves as a centralized location for collaboration and data sharing, eliminating the need for researchers to set up their own storage and visualization software. Both the hardware and software designs are fully open-source.
+
+[Live website](https://dirtviz.jlab.ucsc.edu/)
+
+[Measurement equipment hardware](https://github.com/jlab-sensing/soil_power_sensor)
+
+[Measurement equipment firmware](https://github.com/jlab-sensing/soil-power-sensor-firmware/pulls)
+
+[Data visualization](https://github.com/jlab-sensing/DirtViz)
