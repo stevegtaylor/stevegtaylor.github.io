@@ -26,3 +26,7 @@ In my free time I love to surf, hike, climb and just spend time outside. :) It's
 ![My favorite hobby](images/img_5703_720.jpg)
 
 *My favorite hobby.*
+
+![trees](images/IMG_0691.JPG)
+
+*Some big trees near Santa Cruz.*
