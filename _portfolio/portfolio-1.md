@@ -4,7 +4,7 @@ excerpt: "The Open Sensing Platform is an open-source, end-to-end environmental 
 collection: portfolio
 ---
 
-When we began implementing research field deployments, we noticed a lack of appropriate field monitoring equipment for researchers. Many research groups were wasting valuable time reinventing the wheel by building their own measurement systems. In response, we began to develop the Open Sensing Platform.
+When we began implementing research field deployments for our work on soil microbial fuel cells, we noticed a lack of appropriate field monitoring equipment for researchers. Many research groups were wasting valuable time reinventing the wheel by building their own measurement systems. In response, we began to develop the Open Sensing Platform.
 
 The Open Sensing Platform consists of two parts: the sensor hardware and the data ingestion/visualization software. The sensor hardware provides researchers with a user-friendly, modular device for field and in-lab research. It includes LoRa and WiFi for field and lab deployments, respectively; analog measurement; onboard memory storage; and general-purpose environmental sensing communication. Our data ingestion and visualization platform serves as a centralized location for collaboration and data sharing, eliminating the need for researchers to set up their own storage and visualization software. Both the hardware and software designs are fully open-source.
 
