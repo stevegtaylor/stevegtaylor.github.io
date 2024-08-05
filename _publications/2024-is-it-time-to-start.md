@@ -19,6 +19,6 @@ proxy for soil qualities and microbial activity. This discussion aims to emphasi
 addressing real-world environmental issues and to generate interest in the larger scientific community for broad
 interdisciplinary research efforts, particularly in field deployments.
 
-[Download paper](https://www.sciencedirect.com/science/article/pii/S0048969724053798)
+[Download paper](http://stevegtaylor.github.io/files/is-it-time-to-start.pdf)
 
 ***Stephen Taylor**, Laura Jaliff, George Wells, Colleen Josephson*
