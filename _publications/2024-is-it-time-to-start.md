@@ -21,4 +21,4 @@ interdisciplinary research efforts, particularly in field deployments.
 
 [Download paper](https://www.sciencedirect.com/science/article/pii/S0048969724053798).
 
-* **Stephen Taylor**, Laura Jaliff, George Wells, Colleen Josephson*
+***Stephen Taylor**, Laura Jaliff, George Wells, Colleen Josephson*
