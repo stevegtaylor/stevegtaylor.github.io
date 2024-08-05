@@ -19,4 +19,4 @@ proxy for soil qualities and microbial activity. This discussion aims to emphasi
 addressing real-world environmental issues and to generate interest in the larger scientific community for broad
 interdisciplinary research efforts, particularly in field deployments.
 
-** *Stephen Taylor**, Laura Jaliff, George Wells, Colleen Josephson,*
+* **Stephen Taylor**, Laura Jaliff, George Wells, Colleen Josephson,*
