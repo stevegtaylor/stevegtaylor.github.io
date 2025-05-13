@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Steve Taylor. I'm a Computer Science & Engineering PhD student at UC San Diego advised by [Pat Pannuto](https://cse.ucsd.edu/people/faculty-profiles/pat-pannuto). I'm interested in developing new sensing and energy harvesting technologies in the name of sustainability. Some of my projects include being a lead developer on the open-source project [ENTS](https://github.com/jlab-sensing/ENTS-node-hardware), an end-to-end environmental sensing and visualization solution for researchers, and using microbes as non-traditional sensors and sources of electricity.
+Hi, I'm Steve Taylor. I'm a Computer Science & Engineering PhD student at UC San Diego advised by [Pat Pannuto](https://cse.ucsd.edu/people/faculty-profiles/pat-pannuto). I'm interested in developing new sensing and energy harvesting technologies in the name of sustainability. 
+
+Some of my projects include being a lead developer on the open-source project [ENTS](https://github.com/jlab-sensing/ENTS-node-hardware), an end-to-end environmental sensing and visualization solution for researchers, and using microbes as non-traditional sensors and sources of electricity.
 
 I did my undergraduate studies in the ECE department at UC Santa Cruz, where I competed on the UCSC swim team.
 
@@ -15,7 +17,7 @@ After graduation, I worked as a staff researcher with [Colleen Josephson](https:
 
 Contact
 ======
-stt017 at ucsd dot edu
+stevegtaylor at ucsd dot edu
 
 Personal stuff
 ======
